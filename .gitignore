@@ -1,0 +1,6 @@
+.idea/
+venv/
+__pycache__/
+neuro/__pycache__/
+web/__pycache__/
+web/forms/__pycache__/

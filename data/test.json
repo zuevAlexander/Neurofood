@@ -1,0 +1,8970 @@
+[
+  {
+    "food_id": "1",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "1",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "1",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "1",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "1",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "1",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "1",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "2",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "2",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "2",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "2",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "2",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "2",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "2",
+    "feature_id": "31"
+  },
+  {
+    "food_id": "2",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "2",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "3",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "3",
+    "feature_id": "12"
+  },
+  {
+    "food_id": "3",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "3",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "3",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "3",
+    "feature_id": "31"
+  },
+  {
+    "food_id": "3",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "3",
+    "feature_id": "45"
+  },
+  {
+    "food_id": "4",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "4",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "4",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "4",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "4",
+    "feature_id": "24"
+  },
+  {
+    "food_id": "4",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "4",
+    "feature_id": "47"
+  },
+  {
+    "food_id": "4",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "5",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "5",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "5",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "5",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "5",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "5",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "5",
+    "feature_id": "28"
+  },
+  {
+    "food_id": "6",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "6",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "6",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "6",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "6",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "6",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "6",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "6",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "6",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "6",
+    "feature_id": "52"
+  },
+  {
+    "food_id": "6",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "7",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "7",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "7",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "7",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "7",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "7",
+    "feature_id": "24"
+  },
+  {
+    "food_id": "7",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "7",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "7",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "8",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "8",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "8",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "8",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "8",
+    "feature_id": "24"
+  },
+  {
+    "food_id": "8",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "9",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "9",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "9",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "9",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "9",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "9",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "9",
+    "feature_id": "24"
+  },
+  {
+    "food_id": "9",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "9",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "9",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "10",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "10",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "10",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "10",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "10",
+    "feature_id": "19"
+  },
+  {
+    "food_id": "10",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "10",
+    "feature_id": "24"
+  },
+  {
+    "food_id": "10",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "10",
+    "feature_id": "52"
+  },
+  {
+    "food_id": "10",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "11",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "11",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "11",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "11",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "11",
+    "feature_id": "24"
+  },
+  {
+    "food_id": "11",
+    "feature_id": "35"
+  },
+  {
+    "food_id": "12",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "12",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "12",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "12",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "12",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "12",
+    "feature_id": "25"
+  },
+  {
+    "food_id": "12",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "12",
+    "feature_id": "66"
+  },
+  {
+    "food_id": "13",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "13",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "13",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "13",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "13",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "13",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "13",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "13",
+    "feature_id": "42"
+  },
+  {
+    "food_id": "13",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "13",
+    "feature_id": "52"
+  },
+  {
+    "food_id": "14",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "14",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "14",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "14",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "14",
+    "feature_id": "24"
+  },
+  {
+    "food_id": "14",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "14",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "14",
+    "feature_id": "47"
+  },
+  {
+    "food_id": "14",
+    "feature_id": "48"
+  },
+  {
+    "food_id": "15",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "15",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "15",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "15",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "15",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "15",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "15",
+    "feature_id": "24"
+  },
+  {
+    "food_id": "15",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "16",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "16",
+    "feature_id": "12"
+  },
+  {
+    "food_id": "16",
+    "feature_id": "50"
+  },
+  {
+    "food_id": "16",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "17",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "17",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "17",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "17",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "17",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "17",
+    "feature_id": "50"
+  },
+  {
+    "food_id": "17",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "18",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "18",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "18",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "18",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "18",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "18",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "18",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "18",
+    "feature_id": "50"
+  },
+  {
+    "food_id": "19",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "19",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "19",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "19",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "19",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "19",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "19",
+    "feature_id": "50"
+  },
+  {
+    "food_id": "19",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "20",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "20",
+    "feature_id": "12"
+  },
+  {
+    "food_id": "20",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "20",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "20",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "20",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "20",
+    "feature_id": "45"
+  },
+  {
+    "food_id": "21",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "21",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "21",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "21",
+    "feature_id": "24"
+  },
+  {
+    "food_id": "21",
+    "feature_id": "45"
+  },
+  {
+    "food_id": "21",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "21",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "22",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "22",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "22",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "22",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "22",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "22",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "23",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "23",
+    "feature_id": "12"
+  },
+  {
+    "food_id": "23",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "23",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "24",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "24",
+    "feature_id": "12"
+  },
+  {
+    "food_id": "24",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "24",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "24",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "24",
+    "feature_id": "45"
+  },
+  {
+    "food_id": "25",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "25",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "25",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "25",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "25",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "25",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "25",
+    "feature_id": "35"
+  },
+  {
+    "food_id": "25",
+    "feature_id": "67"
+  },
+  {
+    "food_id": "26",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "26",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "26",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "26",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "26",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "26",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "26",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "26",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "26",
+    "feature_id": "57"
+  },
+  {
+    "food_id": "26",
+    "feature_id": "66"
+  },
+  {
+    "food_id": "27",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "27",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "27",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "27",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "27",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "27",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "27",
+    "feature_id": "45"
+  },
+  {
+    "food_id": "27",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "28",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "28",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "28",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "28",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "28",
+    "feature_id": "45"
+  },
+  {
+    "food_id": "28",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "28",
+    "feature_id": "49"
+  },
+  {
+    "food_id": "29",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "29",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "29",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "29",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "29",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "29",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "29",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "29",
+    "feature_id": "35"
+  },
+  {
+    "food_id": "29",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "29",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "29",
+    "feature_id": "64"
+  },
+  {
+    "food_id": "29",
+    "feature_id": "70"
+  },
+  {
+    "food_id": "30",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "30",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "30",
+    "feature_id": "19"
+  },
+  {
+    "food_id": "30",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "30",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "30",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "30",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "30",
+    "feature_id": "70"
+  },
+  {
+    "food_id": "31",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "31",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "31",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "31",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "31",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "31",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "31",
+    "feature_id": "45"
+  },
+  {
+    "food_id": "31",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "32",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "32",
+    "feature_id": "12"
+  },
+  {
+    "food_id": "32",
+    "feature_id": "24"
+  },
+  {
+    "food_id": "32",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "33",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "33",
+    "feature_id": "12"
+  },
+  {
+    "food_id": "33",
+    "feature_id": "24"
+  },
+  {
+    "food_id": "33",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "34",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "34",
+    "feature_id": "12"
+  },
+  {
+    "food_id": "34",
+    "feature_id": "24"
+  },
+  {
+    "food_id": "34",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "34",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "35",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "35",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "35",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "35",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "35",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "35",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "35",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "36",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "36",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "36",
+    "feature_id": "34"
+  },
+  {
+    "food_id": "36",
+    "feature_id": "58"
+  },
+  {
+    "food_id": "37",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "37",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "37",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "37",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "37",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "38",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "38",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "38",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "38",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "38",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "39",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "39",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "39",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "39",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "39",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "39",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "39",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "39",
+    "feature_id": "19"
+  },
+  {
+    "food_id": "39",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "39",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "40",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "40",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "41",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "41",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "41",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "41",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "41",
+    "feature_id": "24"
+  },
+  {
+    "food_id": "41",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "41",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "41",
+    "feature_id": "47"
+  },
+  {
+    "food_id": "42",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "42",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "42",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "42",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "42",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "42",
+    "feature_id": "24"
+  },
+  {
+    "food_id": "43",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "43",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "43",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "43",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "43",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "43",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "43",
+    "feature_id": "48"
+  },
+  {
+    "food_id": "44",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "44",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "44",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "44",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "44",
+    "feature_id": "24"
+  },
+  {
+    "food_id": "44",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "45",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "45",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "45",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "45",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "45",
+    "feature_id": "19"
+  },
+  {
+    "food_id": "45",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "45",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "45",
+    "feature_id": "24"
+  },
+  {
+    "food_id": "45",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "46",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "46",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "46",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "46",
+    "feature_id": "24"
+  },
+  {
+    "food_id": "46",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "46",
+    "feature_id": "35"
+  },
+  {
+    "food_id": "46",
+    "feature_id": "64"
+  },
+  {
+    "food_id": "46",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "47",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "47",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "47",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "47",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "47",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "47",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "47",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "47",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "47",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "48",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "48",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "48",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "48",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "48",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "48",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "49",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "49",
+    "feature_id": "12"
+  },
+  {
+    "food_id": "49",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "49",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "49",
+    "feature_id": "45"
+  },
+  {
+    "food_id": "50",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "50",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "50",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "50",
+    "feature_id": "19"
+  },
+  {
+    "food_id": "50",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "50",
+    "feature_id": "24"
+  },
+  {
+    "food_id": "50",
+    "feature_id": "56"
+  },
+  {
+    "food_id": "50",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "51",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "51",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "51",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "51",
+    "feature_id": "24"
+  },
+  {
+    "food_id": "51",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "51",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "51",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "52",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "52",
+    "feature_id": "12"
+  },
+  {
+    "food_id": "52",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "52",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "52",
+    "feature_id": "45"
+  },
+  {
+    "food_id": "52",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "53",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "53",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "53",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "53",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "53",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "53",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "53",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "54",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "54",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "54",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "54",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "54",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "54",
+    "feature_id": "47"
+  },
+  {
+    "food_id": "54",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "55",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "55",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "55",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "55",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "55",
+    "feature_id": "19"
+  },
+  {
+    "food_id": "55",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "55",
+    "feature_id": "24"
+  },
+  {
+    "food_id": "55",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "55",
+    "feature_id": "57"
+  },
+  {
+    "food_id": "55",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "56",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "56",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "56",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "56",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "56",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "56",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "56",
+    "feature_id": "70"
+  },
+  {
+    "food_id": "57",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "57",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "57",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "57",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "57",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "57",
+    "feature_id": "52"
+  },
+  {
+    "food_id": "57",
+    "feature_id": "57"
+  },
+  {
+    "food_id": "57",
+    "feature_id": "64"
+  },
+  {
+    "food_id": "57",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "58",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "58",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "58",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "58",
+    "feature_id": "24"
+  },
+  {
+    "food_id": "58",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "58",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "58",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "58",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "59",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "59",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "59",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "59",
+    "feature_id": "24"
+  },
+  {
+    "food_id": "59",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "59",
+    "feature_id": "57"
+  },
+  {
+    "food_id": "59",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "60",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "60",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "60",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "60",
+    "feature_id": "45"
+  },
+  {
+    "food_id": "60",
+    "feature_id": "52"
+  },
+  {
+    "food_id": "61",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "61",
+    "feature_id": "12"
+  },
+  {
+    "food_id": "61",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "61",
+    "feature_id": "28"
+  },
+  {
+    "food_id": "61",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "61",
+    "feature_id": "45"
+  },
+  {
+    "food_id": "61",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "62",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "62",
+    "feature_id": "12"
+  },
+  {
+    "food_id": "62",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "62",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "63",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "63",
+    "feature_id": "12"
+  },
+  {
+    "food_id": "63",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "63",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "63",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "63",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "63",
+    "feature_id": "45"
+  },
+  {
+    "food_id": "63",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "64",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "64",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "64",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "64",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "64",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "64",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "64",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "64",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "65",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "65",
+    "feature_id": "12"
+  },
+  {
+    "food_id": "65",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "65",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "65",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "65",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "66",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "66",
+    "feature_id": "12"
+  },
+  {
+    "food_id": "66",
+    "feature_id": "71"
+  },
+  {
+    "food_id": "66",
+    "feature_id": "72"
+  },
+  {
+    "food_id": "67",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "67",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "67",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "67",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "67",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "67",
+    "feature_id": "31"
+  },
+  {
+    "food_id": "67",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "67",
+    "feature_id": "45"
+  },
+  {
+    "food_id": "67",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "67",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "68",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "68",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "68",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "68",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "68",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "68",
+    "feature_id": "45"
+  },
+  {
+    "food_id": "68",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "68",
+    "feature_id": "50"
+  },
+  {
+    "food_id": "68",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "69",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "69",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "69",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "69",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "69",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "69",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "69",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "69",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "69",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "69",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "70",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "70",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "70",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "70",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "70",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "70",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "70",
+    "feature_id": "35"
+  },
+  {
+    "food_id": "71",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "71",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "71",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "71",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "71",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "71",
+    "feature_id": "67"
+  },
+  {
+    "food_id": "71",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "72",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "72",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "72",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "72",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "72",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "72",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "72",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "72",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "72",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "72",
+    "feature_id": "35"
+  },
+  {
+    "food_id": "72",
+    "feature_id": "64"
+  },
+  {
+    "food_id": "73",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "73",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "73",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "73",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "73",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "73",
+    "feature_id": "57"
+  },
+  {
+    "food_id": "73",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "73",
+    "feature_id": "64"
+  },
+  {
+    "food_id": "73",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "74",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "74",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "74",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "74",
+    "feature_id": "19"
+  },
+  {
+    "food_id": "74",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "74",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "74",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "74",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "74",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "75",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "75",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "75",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "75",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "75",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "75",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "75",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "75",
+    "feature_id": "49"
+  },
+  {
+    "food_id": "75",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "76",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "76",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "76",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "76",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "76",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "76",
+    "feature_id": "24"
+  },
+  {
+    "food_id": "76",
+    "feature_id": "25"
+  },
+  {
+    "food_id": "76",
+    "feature_id": "26"
+  },
+  {
+    "food_id": "76",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "77",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "77",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "77",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "77",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "77",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "77",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "77",
+    "feature_id": "52"
+  },
+  {
+    "food_id": "77",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "78",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "78",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "78",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "78",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "78",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "78",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "78",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "78",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "78",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "79",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "79",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "79",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "79",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "80",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "80",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "80",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "80",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "80",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "80",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "81",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "81",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "81",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "81",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "81",
+    "feature_id": "56"
+  },
+  {
+    "food_id": "81",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "82",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "82",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "82",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "82",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "82",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "82",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "82",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "82",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "82",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "82",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "83",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "83",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "83",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "83",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "83",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "83",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "83",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "83",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "83",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "83",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "84",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "84",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "84",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "84",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "84",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "84",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "84",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "84",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "84",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "84",
+    "feature_id": "51"
+  },
+  {
+    "food_id": "84",
+    "feature_id": "52"
+  },
+  {
+    "food_id": "84",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "85",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "85",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "85",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "85",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "85",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "85",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "85",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "85",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "85",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "85",
+    "feature_id": "51"
+  },
+  {
+    "food_id": "85",
+    "feature_id": "52"
+  },
+  {
+    "food_id": "85",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "86",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "86",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "86",
+    "feature_id": "42"
+  },
+  {
+    "food_id": "87",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "87",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "87",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "87",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "87",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "88",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "88",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "88",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "89",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "89",
+    "feature_id": "55"
+  },
+  {
+    "food_id": "90",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "90",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "90",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "90",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "90",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "91",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "91",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "91",
+    "feature_id": "24"
+  },
+  {
+    "food_id": "91",
+    "feature_id": "41"
+  },
+  {
+    "food_id": "91",
+    "feature_id": "42"
+  },
+  {
+    "food_id": "91",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "91",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "91",
+    "feature_id": "48"
+  },
+  {
+    "food_id": "91",
+    "feature_id": "51"
+  },
+  {
+    "food_id": "91",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "92",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "92",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "92",
+    "feature_id": "24"
+  },
+  {
+    "food_id": "92",
+    "feature_id": "41"
+  },
+  {
+    "food_id": "92",
+    "feature_id": "42"
+  },
+  {
+    "food_id": "92",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "92",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "92",
+    "feature_id": "48"
+  },
+  {
+    "food_id": "92",
+    "feature_id": "51"
+  },
+  {
+    "food_id": "92",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "93",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "93",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "93",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "93",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "93",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "93",
+    "feature_id": "19"
+  },
+  {
+    "food_id": "93",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "93",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "94",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "94",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "94",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "94",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "94",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "94",
+    "feature_id": "19"
+  },
+  {
+    "food_id": "94",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "94",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "95",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "95",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "95",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "95",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "95",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "95",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "95",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "95",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "95",
+    "feature_id": "54"
+  },
+  {
+    "food_id": "96",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "96",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "96",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "96",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "96",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "96",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "96",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "96",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "96",
+    "feature_id": "54"
+  },
+  {
+    "food_id": "97",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "97",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "97",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "97",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "97",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "97",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "97",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "97",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "98",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "98",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "98",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "98",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "98",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "98",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "98",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "98",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "99",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "99",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "99",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "99",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "99",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "99",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "99",
+    "feature_id": "40"
+  },
+  {
+    "food_id": "99",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "99",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "100",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "100",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "100",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "100",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "100",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "100",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "100",
+    "feature_id": "40"
+  },
+  {
+    "food_id": "100",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "100",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "101",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "101",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "101",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "101",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "101",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "101",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "101",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "101",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "101",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "102",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "102",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "102",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "102",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "102",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "102",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "102",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "102",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "102",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "103",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "103",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "103",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "103",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "103",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "103",
+    "feature_id": "24"
+  },
+  {
+    "food_id": "103",
+    "feature_id": "37"
+  },
+  {
+    "food_id": "103",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "103",
+    "feature_id": "51"
+  },
+  {
+    "food_id": "103",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "104",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "104",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "104",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "104",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "104",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "104",
+    "feature_id": "24"
+  },
+  {
+    "food_id": "104",
+    "feature_id": "37"
+  },
+  {
+    "food_id": "104",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "104",
+    "feature_id": "51"
+  },
+  {
+    "food_id": "104",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "105",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "105",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "105",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "105",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "105",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "105",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "105",
+    "feature_id": "37"
+  },
+  {
+    "food_id": "105",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "105",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "106",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "106",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "106",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "106",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "106",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "106",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "106",
+    "feature_id": "37"
+  },
+  {
+    "food_id": "106",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "106",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "107",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "107",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "107",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "107",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "107",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "107",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "107",
+    "feature_id": "40"
+  },
+  {
+    "food_id": "107",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "108",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "108",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "108",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "108",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "108",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "108",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "108",
+    "feature_id": "40"
+  },
+  {
+    "food_id": "108",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "109",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "109",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "109",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "109",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "109",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "109",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "109",
+    "feature_id": "40"
+  },
+  {
+    "food_id": "109",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "109",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "110",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "110",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "110",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "110",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "110",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "110",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "110",
+    "feature_id": "40"
+  },
+  {
+    "food_id": "110",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "110",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "111",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "111",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "111",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "111",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "111",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "111",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "111",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "111",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "111",
+    "feature_id": "59"
+  },
+  {
+    "food_id": "111",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "111",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "112",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "112",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "112",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "112",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "112",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "112",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "112",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "112",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "112",
+    "feature_id": "59"
+  },
+  {
+    "food_id": "112",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "112",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "113",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "113",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "113",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "113",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "113",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "113",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "113",
+    "feature_id": "36"
+  },
+  {
+    "food_id": "113",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "114",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "114",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "114",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "114",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "114",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "114",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "114",
+    "feature_id": "36"
+  },
+  {
+    "food_id": "114",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "115",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "115",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "115",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "115",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "115",
+    "feature_id": "28"
+  },
+  {
+    "food_id": "115",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "115",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "115",
+    "feature_id": "49"
+  },
+  {
+    "food_id": "116",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "116",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "116",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "116",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "116",
+    "feature_id": "28"
+  },
+  {
+    "food_id": "116",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "116",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "116",
+    "feature_id": "49"
+  },
+  {
+    "food_id": "117",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "117",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "117",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "117",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "117",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "117",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "117",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "118",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "118",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "118",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "118",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "118",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "118",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "118",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "119",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "119",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "119",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "119",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "119",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "119",
+    "feature_id": "37"
+  },
+  {
+    "food_id": "119",
+    "feature_id": "42"
+  },
+  {
+    "food_id": "119",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "119",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "119",
+    "feature_id": "51"
+  },
+  {
+    "food_id": "120",
+    "feature_id": "2"
+  },
+  {
+    "food_id": "120",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "120",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "120",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "120",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "120",
+    "feature_id": "37"
+  },
+  {
+    "food_id": "120",
+    "feature_id": "42"
+  },
+  {
+    "food_id": "120",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "120",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "120",
+    "feature_id": "51"
+  },
+  {
+    "food_id": "121",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "121",
+    "feature_id": "7"
+  },
+  {
+    "food_id": "121",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "121",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "121",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "121",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "122",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "122",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "122",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "122",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "122",
+    "feature_id": "42"
+  },
+  {
+    "food_id": "122",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "123",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "123",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "123",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "123",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "123",
+    "feature_id": "56"
+  },
+  {
+    "food_id": "123",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "124",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "124",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "124",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "124",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "124",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "124",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "124",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "124",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "124",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "125",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "125",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "125",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "125",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "125",
+    "feature_id": "42"
+  },
+  {
+    "food_id": "126",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "126",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "126",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "126",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "126",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "126",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "126",
+    "feature_id": "42"
+  },
+  {
+    "food_id": "127",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "127",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "127",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "127",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "127",
+    "feature_id": "26"
+  },
+  {
+    "food_id": "127",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "128",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "128",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "128",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "128",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "128",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "129",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "129",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "129",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "129",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "129",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "130",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "130",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "130",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "130",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "130",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "130",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "131",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "131",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "131",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "131",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "131",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "131",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "132",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "132",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "132",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "132",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "132",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "132",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "133",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "133",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "133",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "133",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "133",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "133",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "133",
+    "feature_id": "36"
+  },
+  {
+    "food_id": "133",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "133",
+    "feature_id": "59"
+  },
+  {
+    "food_id": "133",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "133",
+    "feature_id": "71"
+  },
+  {
+    "food_id": "134",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "134",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "134",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "134",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "134",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "134",
+    "feature_id": "42"
+  },
+  {
+    "food_id": "134",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "134",
+    "feature_id": "49"
+  },
+  {
+    "food_id": "134",
+    "feature_id": "51"
+  },
+  {
+    "food_id": "135",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "135",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "135",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "135",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "135",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "135",
+    "feature_id": "36"
+  },
+  {
+    "food_id": "135",
+    "feature_id": "42"
+  },
+  {
+    "food_id": "136",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "136",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "136",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "136",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "136",
+    "feature_id": "36"
+  },
+  {
+    "food_id": "137",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "137",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "137",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "137",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "137",
+    "feature_id": "36"
+  },
+  {
+    "food_id": "137",
+    "feature_id": "59"
+  },
+  {
+    "food_id": "137",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "138",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "138",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "138",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "138",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "138",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "138",
+    "feature_id": "36"
+  },
+  {
+    "food_id": "139",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "139",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "139",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "139",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "139",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "140",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "140",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "140",
+    "feature_id": "32"
+  },
+  {
+    "food_id": "140",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "140",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "141",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "141",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "141",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "141",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "141",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "141",
+    "feature_id": "42"
+  },
+  {
+    "food_id": "142",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "142",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "142",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "142",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "142",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "142",
+    "feature_id": "42"
+  },
+  {
+    "food_id": "142",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "142",
+    "feature_id": "57"
+  },
+  {
+    "food_id": "143",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "143",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "143",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "143",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "143",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "143",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "143",
+    "feature_id": "36"
+  },
+  {
+    "food_id": "143",
+    "feature_id": "37"
+  },
+  {
+    "food_id": "143",
+    "feature_id": "51"
+  },
+  {
+    "food_id": "143",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "144",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "144",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "144",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "144",
+    "feature_id": "26"
+  },
+  {
+    "food_id": "144",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "145",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "145",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "145",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "145",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "145",
+    "feature_id": "42"
+  },
+  {
+    "food_id": "145",
+    "feature_id": "51"
+  },
+  {
+    "food_id": "146",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "146",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "146",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "146",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "146",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "146",
+    "feature_id": "51"
+  },
+  {
+    "food_id": "147",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "147",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "147",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "147",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "147",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "147",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "147",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "148",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "148",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "148",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "148",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "148",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "148",
+    "feature_id": "36"
+  },
+  {
+    "food_id": "148",
+    "feature_id": "59"
+  },
+  {
+    "food_id": "149",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "149",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "149",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "149",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "149",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "149",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "149",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "150",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "150",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "150",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "150",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "150",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "150",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "150",
+    "feature_id": "36"
+  },
+  {
+    "food_id": "151",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "151",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "151",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "151",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "151",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "151",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "152",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "152",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "152",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "152",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "152",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "152",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "153",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "153",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "153",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "153",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "153",
+    "feature_id": "36"
+  },
+  {
+    "food_id": "154",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "154",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "154",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "154",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "154",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "154",
+    "feature_id": "36"
+  },
+  {
+    "food_id": "155",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "155",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "155",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "155",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "155",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "155",
+    "feature_id": "36"
+  },
+  {
+    "food_id": "155",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "156",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "156",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "156",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "156",
+    "feature_id": "36"
+  },
+  {
+    "food_id": "157",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "157",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "157",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "157",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "157",
+    "feature_id": "26"
+  },
+  {
+    "food_id": "157",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "158",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "158",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "158",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "158",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "158",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "158",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "158",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "158",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "158",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "158",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "158",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "158",
+    "feature_id": "51"
+  },
+  {
+    "food_id": "158",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "159",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "159",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "159",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "159",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "159",
+    "feature_id": "36"
+  },
+  {
+    "food_id": "159",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "159",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "160",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "160",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "160",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "160",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "160",
+    "feature_id": "56"
+  },
+  {
+    "food_id": "161",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "161",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "161",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "161",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "161",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "161",
+    "feature_id": "42"
+  },
+  {
+    "food_id": "161",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "161",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "162",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "162",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "162",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "162",
+    "feature_id": "42"
+  },
+  {
+    "food_id": "162",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "162",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "162",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "163",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "163",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "163",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "163",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "163",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "164",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "164",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "164",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "164",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "164",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "164",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "165",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "165",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "165",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "165",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "165",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "165",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "165",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "165",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "166",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "166",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "166",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "166",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "166",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "167",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "167",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "167",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "167",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "167",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "167",
+    "feature_id": "73"
+  },
+  {
+    "food_id": "168",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "168",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "168",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "168",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "168",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "168",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "169",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "169",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "169",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "169",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "169",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "169",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "169",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "169",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "170",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "170",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "170",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "170",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "170",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "170",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "170",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "170",
+    "feature_id": "70"
+  },
+  {
+    "food_id": "171",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "171",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "171",
+    "feature_id": "36"
+  },
+  {
+    "food_id": "171",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "172",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "172",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "172",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "172",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "172",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "172",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "172",
+    "feature_id": "36"
+  },
+  {
+    "food_id": "172",
+    "feature_id": "37"
+  },
+  {
+    "food_id": "172",
+    "feature_id": "51"
+  },
+  {
+    "food_id": "173",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "173",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "173",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "173",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "173",
+    "feature_id": "56"
+  },
+  {
+    "food_id": "174",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "174",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "174",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "174",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "174",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "174",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "174",
+    "feature_id": "56"
+  },
+  {
+    "food_id": "175",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "175",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "175",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "175",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "175",
+    "feature_id": "56"
+  },
+  {
+    "food_id": "176",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "176",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "176",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "176",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "176",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "176",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "176",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "176",
+    "feature_id": "56"
+  },
+  {
+    "food_id": "177",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "177",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "177",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "177",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "177",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "177",
+    "feature_id": "37"
+  },
+  {
+    "food_id": "177",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "177",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "178",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "178",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "178",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "178",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "178",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "178",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "178",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "178",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "179",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "179",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "179",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "179",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "179",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "179",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "180",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "180",
+    "feature_id": "7"
+  },
+  {
+    "food_id": "180",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "180",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "180",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "180",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "180",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "181",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "181",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "181",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "181",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "181",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "181",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "182",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "182",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "182",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "182",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "182",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "182",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "182",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "183",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "183",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "183",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "183",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "183",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "183",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "183",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "183",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "183",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "184",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "184",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "184",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "184",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "184",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "185",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "185",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "185",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "185",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "185",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "185",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "185",
+    "feature_id": "31"
+  },
+  {
+    "food_id": "185",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "185",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "185",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "185",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "186",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "186",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "186",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "186",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "186",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "186",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "186",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "187",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "187",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "187",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "187",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "187",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "187",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "187",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "187",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "187",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "187",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "188",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "188",
+    "feature_id": "7"
+  },
+  {
+    "food_id": "188",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "188",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "188",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "188",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "188",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "188",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "189",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "189",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "189",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "189",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "189",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "189",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "189",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "189",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "190",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "190",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "190",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "190",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "190",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "190",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "190",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "190",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "191",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "191",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "191",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "191",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "191",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "191",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "192",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "192",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "192",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "192",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "192",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "192",
+    "feature_id": "36"
+  },
+  {
+    "food_id": "192",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "192",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "193",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "193",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "193",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "193",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "193",
+    "feature_id": "36"
+  },
+  {
+    "food_id": "193",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "193",
+    "feature_id": "51"
+  },
+  {
+    "food_id": "193",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "194",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "194",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "194",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "194",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "194",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "194",
+    "feature_id": "36"
+  },
+  {
+    "food_id": "194",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "195",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "195",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "195",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "195",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "195",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "196",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "196",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "196",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "196",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "196",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "196",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "196",
+    "feature_id": "56"
+  },
+  {
+    "food_id": "196",
+    "feature_id": "59"
+  },
+  {
+    "food_id": "197",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "197",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "197",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "197",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "197",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "197",
+    "feature_id": "33"
+  },
+  {
+    "food_id": "197",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "197",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "198",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "198",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "198",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "198",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "198",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "198",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "198",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "198",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "198",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "198",
+    "feature_id": "66"
+  },
+  {
+    "food_id": "198",
+    "feature_id": "70"
+  },
+  {
+    "food_id": "199",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "199",
+    "feature_id": "12"
+  },
+  {
+    "food_id": "199",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "199",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "200",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "200",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "200",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "200",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "200",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "200",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "200",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "200",
+    "feature_id": "70"
+  },
+  {
+    "food_id": "201",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "201",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "201",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "201",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "201",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "202",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "202",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "202",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "202",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "202",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "202",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "202",
+    "feature_id": "73"
+  },
+  {
+    "food_id": "203",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "203",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "203",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "203",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "203",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "203",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "203",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "203",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "203",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "204",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "204",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "204",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "204",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "204",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "204",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "205",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "205",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "205",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "205",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "205",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "205",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "205",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "205",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "205",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "206",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "206",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "206",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "206",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "207",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "207",
+    "feature_id": "7"
+  },
+  {
+    "food_id": "207",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "207",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "207",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "207",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "208",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "208",
+    "feature_id": "11"
+  },
+  {
+    "food_id": "208",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "208",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "208",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "209",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "209",
+    "feature_id": "11"
+  },
+  {
+    "food_id": "209",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "209",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "209",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "209",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "210",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "210",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "210",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "210",
+    "feature_id": "26"
+  },
+  {
+    "food_id": "210",
+    "feature_id": "36"
+  },
+  {
+    "food_id": "210",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "210",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "211",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "211",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "211",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "211",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "211",
+    "feature_id": "31"
+  },
+  {
+    "food_id": "212",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "212",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "212",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "212",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "212",
+    "feature_id": "31"
+  },
+  {
+    "food_id": "213",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "213",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "213",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "213",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "213",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "213",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "213",
+    "feature_id": "41"
+  },
+  {
+    "food_id": "213",
+    "feature_id": "51"
+  },
+  {
+    "food_id": "214",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "214",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "214",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "214",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "214",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "214",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "214",
+    "feature_id": "41"
+  },
+  {
+    "food_id": "214",
+    "feature_id": "51"
+  },
+  {
+    "food_id": "215",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "215",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "215",
+    "feature_id": "40"
+  },
+  {
+    "food_id": "215",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "216",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "216",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "216",
+    "feature_id": "40"
+  },
+  {
+    "food_id": "216",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "217",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "217",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "217",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "217",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "217",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "217",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "217",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "217",
+    "feature_id": "36"
+  },
+  {
+    "food_id": "217",
+    "feature_id": "37"
+  },
+  {
+    "food_id": "217",
+    "feature_id": "51"
+  },
+  {
+    "food_id": "217",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "218",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "218",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "218",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "218",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "218",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "218",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "218",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "218",
+    "feature_id": "36"
+  },
+  {
+    "food_id": "218",
+    "feature_id": "37"
+  },
+  {
+    "food_id": "218",
+    "feature_id": "51"
+  },
+  {
+    "food_id": "218",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "219",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "219",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "219",
+    "feature_id": "54"
+  },
+  {
+    "food_id": "220",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "220",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "220",
+    "feature_id": "54"
+  },
+  {
+    "food_id": "221",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "221",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "221",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "221",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "221",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "221",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "221",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "221",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "221",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "221",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "222",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "222",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "222",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "222",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "222",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "222",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "222",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "222",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "222",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "222",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "223",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "223",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "223",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "223",
+    "feature_id": "50"
+  },
+  {
+    "food_id": "224",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "224",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "224",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "224",
+    "feature_id": "50"
+  },
+  {
+    "food_id": "225",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "225",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "225",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "225",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "225",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "225",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "225",
+    "feature_id": "37"
+  },
+  {
+    "food_id": "225",
+    "feature_id": "51"
+  },
+  {
+    "food_id": "226",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "226",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "226",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "226",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "226",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "226",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "226",
+    "feature_id": "37"
+  },
+  {
+    "food_id": "226",
+    "feature_id": "51"
+  },
+  {
+    "food_id": "227",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "227",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "227",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "227",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "227",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "227",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "227",
+    "feature_id": "51"
+  },
+  {
+    "food_id": "228",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "228",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "228",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "228",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "228",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "228",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "228",
+    "feature_id": "51"
+  },
+  {
+    "food_id": "229",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "229",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "229",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "229",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "229",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "229",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "230",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "230",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "230",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "230",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "230",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "230",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "231",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "231",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "231",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "231",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "231",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "232",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "232",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "232",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "232",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "232",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "233",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "233",
+    "feature_id": "7"
+  },
+  {
+    "food_id": "233",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "233",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "234",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "234",
+    "feature_id": "7"
+  },
+  {
+    "food_id": "234",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "234",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "235",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "235",
+    "feature_id": "7"
+  },
+  {
+    "food_id": "235",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "235",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "235",
+    "feature_id": "55"
+  },
+  {
+    "food_id": "236",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "236",
+    "feature_id": "7"
+  },
+  {
+    "food_id": "236",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "236",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "236",
+    "feature_id": "55"
+  },
+  {
+    "food_id": "237",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "237",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "237",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "237",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "237",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "238",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "238",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "238",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "238",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "238",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "239",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "239",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "239",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "239",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "240",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "240",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "240",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "240",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "241",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "241",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "241",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "241",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "242",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "242",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "242",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "242",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "243",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "243",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "243",
+    "feature_id": "25"
+  },
+  {
+    "food_id": "243",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "244",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "244",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "244",
+    "feature_id": "25"
+  },
+  {
+    "food_id": "244",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "245",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "245",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "245",
+    "feature_id": "39"
+  },
+  {
+    "food_id": "245",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "246",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "246",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "246",
+    "feature_id": "39"
+  },
+  {
+    "food_id": "246",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "247",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "247",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "247",
+    "feature_id": "40"
+  },
+  {
+    "food_id": "247",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "248",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "248",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "248",
+    "feature_id": "40"
+  },
+  {
+    "food_id": "248",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "249",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "249",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "249",
+    "feature_id": "40"
+  },
+  {
+    "food_id": "249",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "250",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "250",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "250",
+    "feature_id": "40"
+  },
+  {
+    "food_id": "250",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "251",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "251",
+    "feature_id": "7"
+  },
+  {
+    "food_id": "251",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "251",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "251",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "251",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "251",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "251",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "251",
+    "feature_id": "70"
+  },
+  {
+    "food_id": "252",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "252",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "252",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "252",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "252",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "252",
+    "feature_id": "31"
+  },
+  {
+    "food_id": "252",
+    "feature_id": "50"
+  },
+  {
+    "food_id": "252",
+    "feature_id": "72"
+  },
+  {
+    "food_id": "253",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "253",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "253",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "253",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "253",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "253",
+    "feature_id": "31"
+  },
+  {
+    "food_id": "253",
+    "feature_id": "50"
+  },
+  {
+    "food_id": "253",
+    "feature_id": "72"
+  },
+  {
+    "food_id": "254",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "254",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "254",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "254",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "254",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "254",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "254",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "254",
+    "feature_id": "31"
+  },
+  {
+    "food_id": "254",
+    "feature_id": "50"
+  },
+  {
+    "food_id": "254",
+    "feature_id": "72"
+  },
+  {
+    "food_id": "255",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "255",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "255",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "255",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "255",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "255",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "255",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "255",
+    "feature_id": "31"
+  },
+  {
+    "food_id": "255",
+    "feature_id": "50"
+  },
+  {
+    "food_id": "255",
+    "feature_id": "72"
+  },
+  {
+    "food_id": "256",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "256",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "256",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "256",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "257",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "257",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "257",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "257",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "258",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "258",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "258",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "258",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "258",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "258",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "258",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "258",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "258",
+    "feature_id": "31"
+  },
+  {
+    "food_id": "258",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "258",
+    "feature_id": "68"
+  },
+  {
+    "food_id": "258",
+    "feature_id": "72"
+  },
+  {
+    "food_id": "259",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "259",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "259",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "259",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "259",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "259",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "259",
+    "feature_id": "23"
+  },
+  {
+    "food_id": "259",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "259",
+    "feature_id": "31"
+  },
+  {
+    "food_id": "259",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "259",
+    "feature_id": "68"
+  },
+  {
+    "food_id": "259",
+    "feature_id": "72"
+  },
+  {
+    "food_id": "260",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "260",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "260",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "260",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "260",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "260",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "260",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "260",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "260",
+    "feature_id": "68"
+  },
+  {
+    "food_id": "260",
+    "feature_id": "72"
+  },
+  {
+    "food_id": "261",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "261",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "261",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "261",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "261",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "261",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "261",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "261",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "261",
+    "feature_id": "68"
+  },
+  {
+    "food_id": "261",
+    "feature_id": "72"
+  },
+  {
+    "food_id": "262",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "262",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "262",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "262",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "262",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "262",
+    "feature_id": "37"
+  },
+  {
+    "food_id": "263",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "263",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "263",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "263",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "263",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "263",
+    "feature_id": "37"
+  },
+  {
+    "food_id": "264",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "264",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "264",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "264",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "264",
+    "feature_id": "37"
+  },
+  {
+    "food_id": "265",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "265",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "265",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "265",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "265",
+    "feature_id": "37"
+  },
+  {
+    "food_id": "266",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "266",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "266",
+    "feature_id": "40"
+  },
+  {
+    "food_id": "266",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "267",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "267",
+    "feature_id": "9"
+  },
+  {
+    "food_id": "267",
+    "feature_id": "40"
+  },
+  {
+    "food_id": "267",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "268",
+    "feature_id": "5"
+  },
+  {
+    "food_id": "268",
+    "feature_id": "6"
+  },
+  {
+    "food_id": "268",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "268",
+    "feature_id": "32"
+  },
+  {
+    "food_id": "268",
+    "feature_id": "34"
+  },
+  {
+    "food_id": "268",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "268",
+    "feature_id": "58"
+  },
+  {
+    "food_id": "269",
+    "feature_id": "5"
+  },
+  {
+    "food_id": "269",
+    "feature_id": "6"
+  },
+  {
+    "food_id": "269",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "269",
+    "feature_id": "34"
+  },
+  {
+    "food_id": "269",
+    "feature_id": "59"
+  },
+  {
+    "food_id": "269",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "269",
+    "feature_id": "61"
+  },
+  {
+    "food_id": "269",
+    "feature_id": "64"
+  },
+  {
+    "food_id": "270",
+    "feature_id": "5"
+  },
+  {
+    "food_id": "270",
+    "feature_id": "6"
+  },
+  {
+    "food_id": "270",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "270",
+    "feature_id": "34"
+  },
+  {
+    "food_id": "270",
+    "feature_id": "38"
+  },
+  {
+    "food_id": "270",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "271",
+    "feature_id": "5"
+  },
+  {
+    "food_id": "271",
+    "feature_id": "6"
+  },
+  {
+    "food_id": "271",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "271",
+    "feature_id": "34"
+  },
+  {
+    "food_id": "271",
+    "feature_id": "38"
+  },
+  {
+    "food_id": "271",
+    "feature_id": "59"
+  },
+  {
+    "food_id": "271",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "272",
+    "feature_id": "5"
+  },
+  {
+    "food_id": "272",
+    "feature_id": "6"
+  },
+  {
+    "food_id": "272",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "272",
+    "feature_id": "34"
+  },
+  {
+    "food_id": "272",
+    "feature_id": "59"
+  },
+  {
+    "food_id": "272",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "273",
+    "feature_id": "5"
+  },
+  {
+    "food_id": "273",
+    "feature_id": "6"
+  },
+  {
+    "food_id": "273",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "273",
+    "feature_id": "33"
+  },
+  {
+    "food_id": "273",
+    "feature_id": "34"
+  },
+  {
+    "food_id": "273",
+    "feature_id": "38"
+  },
+  {
+    "food_id": "273",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "274",
+    "feature_id": "5"
+  },
+  {
+    "food_id": "274",
+    "feature_id": "6"
+  },
+  {
+    "food_id": "274",
+    "feature_id": "34"
+  },
+  {
+    "food_id": "274",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "274",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "274",
+    "feature_id": "61"
+  },
+  {
+    "food_id": "275",
+    "feature_id": "5"
+  },
+  {
+    "food_id": "275",
+    "feature_id": "6"
+  },
+  {
+    "food_id": "275",
+    "feature_id": "34"
+  },
+  {
+    "food_id": "275",
+    "feature_id": "38"
+  },
+  {
+    "food_id": "275",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "276",
+    "feature_id": "5"
+  },
+  {
+    "food_id": "276",
+    "feature_id": "6"
+  },
+  {
+    "food_id": "276",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "276",
+    "feature_id": "32"
+  },
+  {
+    "food_id": "276",
+    "feature_id": "34"
+  },
+  {
+    "food_id": "276",
+    "feature_id": "58"
+  },
+  {
+    "food_id": "277",
+    "feature_id": "5"
+  },
+  {
+    "food_id": "277",
+    "feature_id": "6"
+  },
+  {
+    "food_id": "277",
+    "feature_id": "34"
+  },
+  {
+    "food_id": "277",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "277",
+    "feature_id": "62"
+  },
+  {
+    "food_id": "277",
+    "feature_id": "63"
+  },
+  {
+    "food_id": "278",
+    "feature_id": "5"
+  },
+  {
+    "food_id": "278",
+    "feature_id": "6"
+  },
+  {
+    "food_id": "278",
+    "feature_id": "34"
+  },
+  {
+    "food_id": "278",
+    "feature_id": "35"
+  },
+  {
+    "food_id": "278",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "278",
+    "feature_id": "63"
+  },
+  {
+    "food_id": "279",
+    "feature_id": "5"
+  },
+  {
+    "food_id": "279",
+    "feature_id": "6"
+  },
+  {
+    "food_id": "279",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "279",
+    "feature_id": "34"
+  },
+  {
+    "food_id": "279",
+    "feature_id": "38"
+  },
+  {
+    "food_id": "279",
+    "feature_id": "59"
+  },
+  {
+    "food_id": "279",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "280",
+    "feature_id": "5"
+  },
+  {
+    "food_id": "280",
+    "feature_id": "6"
+  },
+  {
+    "food_id": "280",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "280",
+    "feature_id": "32"
+  },
+  {
+    "food_id": "280",
+    "feature_id": "33"
+  },
+  {
+    "food_id": "280",
+    "feature_id": "34"
+  },
+  {
+    "food_id": "280",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "280",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "281",
+    "feature_id": "5"
+  },
+  {
+    "food_id": "281",
+    "feature_id": "6"
+  },
+  {
+    "food_id": "281",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "281",
+    "feature_id": "34"
+  },
+  {
+    "food_id": "281",
+    "feature_id": "35"
+  },
+  {
+    "food_id": "281",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "281",
+    "feature_id": "63"
+  },
+  {
+    "food_id": "282",
+    "feature_id": "5"
+  },
+  {
+    "food_id": "282",
+    "feature_id": "6"
+  },
+  {
+    "food_id": "282",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "282",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "282",
+    "feature_id": "34"
+  },
+  {
+    "food_id": "282",
+    "feature_id": "35"
+  },
+  {
+    "food_id": "282",
+    "feature_id": "58"
+  },
+  {
+    "food_id": "282",
+    "feature_id": "63"
+  },
+  {
+    "food_id": "282",
+    "feature_id": "64"
+  },
+  {
+    "food_id": "283",
+    "feature_id": "5"
+  },
+  {
+    "food_id": "283",
+    "feature_id": "6"
+  },
+  {
+    "food_id": "283",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "283",
+    "feature_id": "34"
+  },
+  {
+    "food_id": "283",
+    "feature_id": "38"
+  },
+  {
+    "food_id": "283",
+    "feature_id": "59"
+  },
+  {
+    "food_id": "283",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "283",
+    "feature_id": "61"
+  },
+  {
+    "food_id": "284",
+    "feature_id": "5"
+  },
+  {
+    "food_id": "284",
+    "feature_id": "34"
+  },
+  {
+    "food_id": "284",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "284",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "284",
+    "feature_id": "62"
+  },
+  {
+    "food_id": "284",
+    "feature_id": "65"
+  },
+  {
+    "food_id": "285",
+    "feature_id": "5"
+  },
+  {
+    "food_id": "285",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "285",
+    "feature_id": "34"
+  },
+  {
+    "food_id": "285",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "285",
+    "feature_id": "64"
+  },
+  {
+    "food_id": "285",
+    "feature_id": "65"
+  },
+  {
+    "food_id": "286",
+    "feature_id": "5"
+  },
+  {
+    "food_id": "286",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "286",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "286",
+    "feature_id": "34"
+  },
+  {
+    "food_id": "287",
+    "feature_id": "5"
+  },
+  {
+    "food_id": "287",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "287",
+    "feature_id": "34"
+  },
+  {
+    "food_id": "287",
+    "feature_id": "59"
+  },
+  {
+    "food_id": "287",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "287",
+    "feature_id": "61"
+  },
+  {
+    "food_id": "287",
+    "feature_id": "65"
+  },
+  {
+    "food_id": "287",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "288",
+    "feature_id": "5"
+  },
+  {
+    "food_id": "288",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "288",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "288",
+    "feature_id": "34"
+  },
+  {
+    "food_id": "289",
+    "feature_id": "5"
+  },
+  {
+    "food_id": "289",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "289",
+    "feature_id": "34"
+  },
+  {
+    "food_id": "289",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "289",
+    "feature_id": "59"
+  },
+  {
+    "food_id": "289",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "289",
+    "feature_id": "61"
+  },
+  {
+    "food_id": "289",
+    "feature_id": "65"
+  },
+  {
+    "food_id": "289",
+    "feature_id": "71"
+  },
+  {
+    "food_id": "290",
+    "feature_id": "5"
+  },
+  {
+    "food_id": "290",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "290",
+    "feature_id": "34"
+  },
+  {
+    "food_id": "290",
+    "feature_id": "61"
+  },
+  {
+    "food_id": "291",
+    "feature_id": "5"
+  },
+  {
+    "food_id": "291",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "291",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "291",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "291",
+    "feature_id": "32"
+  },
+  {
+    "food_id": "291",
+    "feature_id": "34"
+  },
+  {
+    "food_id": "291",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "291",
+    "feature_id": "58"
+  },
+  {
+    "food_id": "292",
+    "feature_id": "6"
+  },
+  {
+    "food_id": "292",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "292",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "293",
+    "feature_id": "6"
+  },
+  {
+    "food_id": "293",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "293",
+    "feature_id": "36"
+  },
+  {
+    "food_id": "293",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "294",
+    "feature_id": "6"
+  },
+  {
+    "food_id": "294",
+    "feature_id": "41"
+  },
+  {
+    "food_id": "295",
+    "feature_id": "6"
+  },
+  {
+    "food_id": "296",
+    "feature_id": "6"
+  },
+  {
+    "food_id": "297",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "297",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "297",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "297",
+    "feature_id": "36"
+  },
+  {
+    "food_id": "297",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "298",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "298",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "298",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "298",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "299",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "299",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "299",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "299",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "299",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "299",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "299",
+    "feature_id": "37"
+  },
+  {
+    "food_id": "299",
+    "feature_id": "51"
+  },
+  {
+    "food_id": "300",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "300",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "300",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "300",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "300",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "300",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "300",
+    "feature_id": "37"
+  },
+  {
+    "food_id": "300",
+    "feature_id": "51"
+  },
+  {
+    "food_id": "301",
+    "feature_id": "5"
+  },
+  {
+    "food_id": "301",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "301",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "301",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "301",
+    "feature_id": "33"
+  },
+  {
+    "food_id": "301",
+    "feature_id": "59"
+  },
+  {
+    "food_id": "301",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "302",
+    "feature_id": "5"
+  },
+  {
+    "food_id": "302",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "302",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "302",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "302",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "302",
+    "feature_id": "59"
+  },
+  {
+    "food_id": "302",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "303",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "303",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "303",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "303",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "303",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "303",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "303",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "303",
+    "feature_id": "51"
+  },
+  {
+    "food_id": "304",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "304",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "304",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "304",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "304",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "304",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "304",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "304",
+    "feature_id": "51"
+  },
+  {
+    "food_id": "305",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "305",
+    "feature_id": "7"
+  },
+  {
+    "food_id": "305",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "305",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "305",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "306",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "306",
+    "feature_id": "7"
+  },
+  {
+    "food_id": "306",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "306",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "306",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "307",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "307",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "307",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "307",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "307",
+    "feature_id": "73"
+  },
+  {
+    "food_id": "308",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "308",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "308",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "308",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "308",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "309",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "309",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "309",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "309",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "309",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "309",
+    "feature_id": "25"
+  },
+  {
+    "food_id": "309",
+    "feature_id": "37"
+  },
+  {
+    "food_id": "310",
+    "feature_id": "4"
+  },
+  {
+    "food_id": "310",
+    "feature_id": "10"
+  },
+  {
+    "food_id": "310",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "310",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "310",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "310",
+    "feature_id": "25"
+  },
+  {
+    "food_id": "310",
+    "feature_id": "37"
+  },
+  {
+    "food_id": "311",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "311",
+    "feature_id": "7"
+  },
+  {
+    "food_id": "311",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "311",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "311",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "311",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "312",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "312",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "312",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "312",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "312",
+    "feature_id": "30"
+  },
+  {
+    "food_id": "312",
+    "feature_id": "35"
+  },
+  {
+    "food_id": "312",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "313",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "313",
+    "feature_id": "7"
+  },
+  {
+    "food_id": "313",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "313",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "313",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "313",
+    "feature_id": "24"
+  },
+  {
+    "food_id": "313",
+    "feature_id": "42"
+  },
+  {
+    "food_id": "313",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "313",
+    "feature_id": "51"
+  },
+  {
+    "food_id": "314",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "314",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "314",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "314",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "314",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "314",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "315",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "315",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "315",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "315",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "315",
+    "feature_id": "22"
+  },
+  {
+    "food_id": "315",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "316",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "316",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "316",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "316",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "316",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "317",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "317",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "317",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "317",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "317",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "317",
+    "feature_id": "25"
+  },
+  {
+    "food_id": "317",
+    "feature_id": "35"
+  },
+  {
+    "food_id": "318",
+    "feature_id": "5"
+  },
+  {
+    "food_id": "318",
+    "feature_id": "6"
+  },
+  {
+    "food_id": "318",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "318",
+    "feature_id": "26"
+  },
+  {
+    "food_id": "318",
+    "feature_id": "34"
+  },
+  {
+    "food_id": "318",
+    "feature_id": "45"
+  },
+  {
+    "food_id": "318",
+    "feature_id": "53"
+  },
+  {
+    "food_id": "318",
+    "feature_id": "69"
+  },
+  {
+    "food_id": "319",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "319",
+    "feature_id": "7"
+  },
+  {
+    "food_id": "319",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "319",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "319",
+    "feature_id": "18"
+  },
+  {
+    "food_id": "319",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "319",
+    "feature_id": "27"
+  },
+  {
+    "food_id": "319",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "319",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "320",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "320",
+    "feature_id": "7"
+  },
+  {
+    "food_id": "320",
+    "feature_id": "14"
+  },
+  {
+    "food_id": "320",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "320",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "320",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "320",
+    "feature_id": "26"
+  },
+  {
+    "food_id": "320",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "320",
+    "feature_id": "46"
+  },
+  {
+    "food_id": "320",
+    "feature_id": "59"
+  },
+  {
+    "food_id": "321",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "321",
+    "feature_id": "13"
+  },
+  {
+    "food_id": "321",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "321",
+    "feature_id": "16"
+  },
+  {
+    "food_id": "321",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "321",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "321",
+    "feature_id": "29"
+  },
+  {
+    "food_id": "321",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "322",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "322",
+    "feature_id": "12"
+  },
+  {
+    "food_id": "322",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "322",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "322",
+    "feature_id": "45"
+  },
+  {
+    "food_id": "322",
+    "feature_id": "52"
+  },
+  {
+    "food_id": "323",
+    "feature_id": "1"
+  },
+  {
+    "food_id": "323",
+    "feature_id": "20"
+  },
+  {
+    "food_id": "323",
+    "feature_id": "24"
+  },
+  {
+    "food_id": "323",
+    "feature_id": "44"
+  },
+  {
+    "food_id": "323",
+    "feature_id": "52"
+  },
+  {
+    "food_id": "324",
+    "feature_id": "3"
+  },
+  {
+    "food_id": "324",
+    "feature_id": "8"
+  },
+  {
+    "food_id": "324",
+    "feature_id": "15"
+  },
+  {
+    "food_id": "324",
+    "feature_id": "21"
+  },
+  {
+    "food_id": "324",
+    "feature_id": "43"
+  },
+  {
+    "food_id": "324",
+    "feature_id": "51"
+  },
+  {
+    "food_id": "325",
+    "feature_id": "5"
+  },
+  {
+    "food_id": "325",
+    "feature_id": "7"
+  },
+  {
+    "food_id": "325",
+    "feature_id": "17"
+  },
+  {
+    "food_id": "325",
+    "feature_id": "34"
+  },
+  {
+    "food_id": "325",
+    "feature_id": "60"
+  },
+  {
+    "food_id": "325",
+    "feature_id": "69"
+  }
+]
