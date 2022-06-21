@@ -2,7 +2,7 @@ Flask
 wtforms_json
 WTForms
 Click
-numpy==1.14.2
+numpy==1.22.0
 uwsgi
 requests
 flask-cors
